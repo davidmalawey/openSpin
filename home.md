@@ -2,6 +2,8 @@
 
 Openspin is a design environment starting with a template bearing.  It can be used for millions of projects, but we will start by using it as an example of a parametric design.  Parametric design is the magic sauce that will allow hardware to become as versatile and useful as open source software.  As of 2024, it's clear the designers of the world have not discovered the power of open source hardware so we are going to crack open the possibilites starting right here.
 
+_Latest short link ► https://bit.ly/openspinproject_
+
 ## Downloads
 CAD files will be uploaded on grabCAD instead of here on gitHub.  User interface, search functions, and revisions are better supported for CAD on grabCAD while documentation is better supported on GitHub.
 
