@@ -24,6 +24,9 @@ This note (2024.10) is a shoutout to Daniel for publishing models and demonstrat
 
 ![image](https://github.com/user-attachments/assets/f38fef37-b605-4bd9-80c1-ed53927be731)
 
+Daniel published a few youtube videos that show the look, feel, & durability of some of his printed bearings.
+
+<iframe width="703" src="https://www.youtube.com/embed/Pj2N08Fq3bA" title="24 Hour Torture Test of 3D Printed Bearings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## More Open Projects
 More Open Source designs initiated by DM & SCUTTLE team:
