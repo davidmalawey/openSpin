@@ -1,2 +1,3 @@
-- github (https://github.com/dmalawey/openSpin)
-- home (home)
+- Github (https://github.com/dmalawey/openSpin)
+- Home (home)
+- CAD (https://grabcad.com/library/openspin-1)
