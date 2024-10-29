@@ -1,1 +1,4 @@
-Navigation
+- [Home](home)
+- [Gallery](gallery)
+- [Downloads](downloads)
+- [More](tutorials)
