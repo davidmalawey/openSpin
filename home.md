@@ -4,6 +4,8 @@ Openspin is a design environment starting with a template bearing.  It can be us
 
 _Latest short link ► https://bit.ly/openspinproject_
 
+![bearings image](img/img_bearing2.jpg)
+
 ## More Open Projects
 More Open Source designs made by DM & SCUTTLE team:
 * [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
