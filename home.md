@@ -4,6 +4,16 @@ Openspin is a design environment starting with a template bearing.  It can be us
 
 _Latest short link ► https://bit.ly/openspinproject_
 
+## More Open Projects
+More Open Source designs made by DM & SCUTTLE team:
+* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
+* [Mechatronics Resources](https://bit.ly/openmechatronics)
+* [OpenArm](https://bit.ly/openarm)
+* [OpenJar](https://bit.ly/openjarproject_v1)
+* [OpenBox](https://bit.ly/openboxproject)
+* [OpenSpin](https:/bit.ly/openspinproject)
+* [OpenAir](https://bit.ly/openairproject)
+
 ## Downloads
 CAD files will be uploaded on grabCAD instead of here on gitHub.  User interface, search functions, and revisions are better supported for CAD on grabCAD while documentation is better supported on GitHub.
 
@@ -28,11 +38,3 @@ Daniel published a few youtube videos that show the look, feel, & durability of 
 
 <iframe width="703" src="https://www.youtube.com/embed/Pj2N08Fq3bA" title="24 Hour Torture Test of 3D Printed Bearings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## More Open Projects
-More Open Source designs initiated by DM & SCUTTLE team:
-* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
-* [OpenArm](https://bit.ly/openarm)
-* [OpenJar](https://bit.ly/openjarproject_v1)
-* [OpenBox](https://bit.ly/openboxproject)
-* [OpenSpin](https:/bit.ly/openspinproject)
-* [openAir](https://bit.ly/openairproject)
