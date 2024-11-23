@@ -1,4 +1,4 @@
 - [Home](home)
 - [Gallery](gallery)
-- [Downloads](downloads)
-- [More](designs)
+- [Designs](designs)
+- [Tutorials](tutorials)
