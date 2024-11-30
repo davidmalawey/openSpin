@@ -1,8 +1,6 @@
 ## What is OpenSpin?
 
-Openspin is a design environment starting with a template bearing.  It can be used for millions of projects, but we will start by using it as an example of a parametric design.  Parametric design is the magic sauce that will allow hardware to become as versatile and useful as open source software.  As of 2024, it's clear the designers of the world have not discovered the power of open source hardware so we are going to crack open the possibilites starting right here.
-
-_Latest short link ► https://bit.ly/openspinproject_
+Openspin is a design environment for customized rotating parts: bearings, cv joints, & fundamental components. It can be used for millions of outcomes, but we start with a parametric design and good documentation. Let's allow hardware to become as versatile and useful as open source software.
 
 ![bearings image](img/img_bearing2.jpg)
 
