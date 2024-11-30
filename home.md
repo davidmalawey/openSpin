@@ -15,6 +15,7 @@ More Open Source designs made by DM & SCUTTLE team:
 * [OpenBox](https://bit.ly/openboxproject)
 * [OpenSpin](https:/bit.ly/openspinproject)
 * [OpenAir](https://bit.ly/openairproject)
+* [OpenLab](https://bit.ly/openlabproject)
 
 ## Downloads
 CAD files will be uploaded on grabCAD instead of here on gitHub.  User interface, search functions, and revisions are better supported for CAD on grabCAD while documentation is better supported on GitHub.
