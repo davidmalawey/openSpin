@@ -6,14 +6,14 @@ Openspin is a design environment for customized rotating parts: bearings, cv joi
 
 ## More Open Projects
 More Open Source designs made by DM & SCUTTLE team:
-* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
-* [Mechatronics Resources](https://bit.ly/openmechatronics)
-* [OpenArm](https://bit.ly/openarm)
-* [OpenJar](https://bit.ly/openjarproject_v1)
-* [OpenBox](https://bit.ly/openboxproject)
-* [OpenSpin](https:/bit.ly/openspinproject)
-* [OpenAir](https://bit.ly/openairproject)
-* [OpenLab](https://bit.ly/openlabproject)
+* [OpenAir](https://qr.net/openairproject)
+* [OpenArm](https://qr.net/openarmproject)
+* [OpenBox](https://qr.net/openboxproject)
+* [OpenGrow](https://qr.net/opengrowproject)
+* [OpenJar](https://qr.net/openjarproject)
+* [OpenLab](https://qr.net/openlabproject)
+* [OpenME](https://qr.net/openmeproject)
+* [OpenSpin](https://qr.net/openspinproject)
 
 ## Downloads
 CAD files will be uploaded on grabCAD instead of here on gitHub.  User interface, search functions, and revisions are better supported for CAD on grabCAD while documentation is better supported on GitHub.
