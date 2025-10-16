@@ -2,8 +2,10 @@
 
 Openspin is a design environment for customized rotating parts: bearings, cv joints, & fundamental components. It can be used for millions of outcomes, but we start with a parametric design and good documentation. Let's allow hardware to become as versatile and useful as open source software.
 
-![bearings image](img/img_bearing2.jpg)
-
+- ![bearings image](img/img_bearing2.jpg)
+- ![linked image, bearing render](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/4161ce89bc52bb879fad5b71377b365d/original.jpg)
+- ![linked image, pvc integration](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c4d4ce72795777b3a0208e7b9dd5bd8a/original.jpg)
+  
 ## More Open Projects
 More Open Source designs made by DM & SCUTTLE team:
 * [OpenAir](https://qr.net/openairproject)
