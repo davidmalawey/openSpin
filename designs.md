@@ -29,6 +29,6 @@ _key design variants can be broken down here by intended use cases_
 **hub**
 This design adds a bearing to your design. The printable model accomodates common bearing sizes with a press-fit (starting with 608) and allows easy parametric variation, and features a flange to attach the hub to a flat surface (starting with a steel box) and secure with fasteners (starting with M5 screws & nuts).  It is logical to use common affordable bearings for suitable applications.  The printable bearing above is not intended as a one-size fits-all solution to bearings.  Each part has its place.   So, access the hub model on grabCAD and adjust it to any shape of flange, number of fasteners, desired thickness, or bearing fitment.  Get the [CAD model here](https://grabcad.com/library/hub_0-1) for solidworks, step, STL, and images.
 
-- ![linked image, hub assy]([https://grabcad.com/library/hub_0-1](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c78b7ae1c506bffdf973163ffd12f2f0/original.jpg)
+- ![linked photo, hub assy](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1a4d9a8ec5c7cb4b650467375a733be5/original.jpg)
 - ![linked image, cad img](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0cf23646a2659c552a9b16fa881fd029/original.JPG)
 - ![linked image, cad assy](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
