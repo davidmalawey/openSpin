@@ -40,3 +40,6 @@ This design adds a bearing to your design. The printable model accomodates commo
 - ![linked photo, hub assy](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1a4d9a8ec5c7cb4b650467375a733be5/original.jpg)
 - ![linked image, cad img](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0cf23646a2659c552a9b16fa881fd029/original.JPG)
 - ![linked image, cad assy](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/20a22f48b02a1b4dba5f0afc02ead7f7/original.JPG)
+
+**casterBracket**
+attach a caster to your 3030 aluminum rails.  featuring this part in openSpin so we can have one post for wheels which contain a full OTS assembly for bearings.  This printable model gives a solution for press-fit of the common peg-shaped inserts in the office chair style casters found at very good value online. Jump [to cad model here](https://grabcad.com/library/caster-76mm-1)
