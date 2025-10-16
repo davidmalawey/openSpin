@@ -22,6 +22,14 @@ The joint should be tested & characterized for approximate speed, torque, & rang
 * steel balls [4.5mm on amazon](https://amzn.to/4qjK8ZK)
 * steel balls [3/4in on amazon](https://amzn.to/47aflFX)
 
+
+**Spool**
+This design as of 2025 features some brainstorming, some prototyping, some study of needs, and has a little progress at each level but needs more.  The goal: design a spool which can be rotated by a power tool, can fit in a drawer or hang on a pegboard, can be printed narrow to hold thin wires, and wide to hold thick cables, or otherwise adjusted to hold ribbons & tape-shaped supplies in the lab.  The needs are very broad, but the best solution will accomodate all needs with just minor variations in the design.  Those variations can be made into parameters in a model, and benefit millions of people.  Jump to [spool grabCAD post](https://grabcad.com/library/spool_project-1) to get the version1 models. Can you identify your highest priority needs for the design?  Comment on the CAD post.  Can you build an updated version, or add a new idea?  Print it out, post your build and add a tag "openspin."  There are many ways to contribute.
+
+* ![spool section view](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0438a0e05f5334f301a79f4b39c1defc/original.jpg)
+* ![spool photo with driver bit](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/274b944153c46656b22e007dd6a4d66c/original.jpg)
+* ![spool in drawer tray](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/3dde1a4d524aa8c2cd2d6f1241ffa97f/original.jpg)
+
 ## Designs Ready
 
 _key design variants can be broken down here by intended use cases_
