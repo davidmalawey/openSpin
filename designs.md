@@ -43,3 +43,10 @@ This design adds a bearing to your design. The printable model accomodates commo
 
 **casterBracket**
 attach a caster to your 3030 aluminum rails.  featuring this part in openSpin so we can have one post for wheels which contain a full OTS assembly for bearings.  This printable model gives a solution for press-fit of the common peg-shaped inserts in the office chair style casters found at very good value online. Jump [to cad model here](https://grabcad.com/library/caster-76mm-1)
+
+**turntable**
+This version-1 design meets a challenge: to allow 1 degree of freedom, support a high compression force, and distribute uneven loads by featuring a broad area.  The challenge works! A fully grown man can stand on this plate (like a lazy-suzan) and spin freely, without breaking the plate.  This was designed in 2020, and needs some improvements to align with our design standards and good-quality CAD modeling. It could also be improved in the strength where radial loads contact the center hole. (If it is fit onto a shaft, radial forces may cause it to deform or crack).  But, it's a great starting point, it is geared towards parametric design and has functionality, low cost, and many applications.  See [turntable CAD model here!](https://grabcad.com/library/turntable-28)
+
+* ![linked photo turntable1](https://s3.amazonaws.com/gc-p/screenshots/pics/c7926eafd0f5184b245e808b153597e1/original.JPG)
+* ![linked photo turntable1](https://s3.amazonaws.com/gc-p/screenshots/pics/1a687372d3915ee45c8ff99f196c64e0/original.JPG)
+* ![linked photo turntable1](https://s3.amazonaws.com/gc-p/screenshots/pics/7845e7d09c252b8fb28dddc23541a155/original.jpg)
